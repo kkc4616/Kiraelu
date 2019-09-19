@@ -1,0 +1,121 @@
+body{
+  background-color:#5d7529;
+  color:#ffffff;
+  font-weight:700;
+  margin:0;
+}
+ol{
+  margin:0;
+  padding:7px;
+}
+li{
+  display:inline;
+}
+a{
+  text-decoration:none;
+  color:#ffffff;
+}
+.Top{
+  font-size:20px;
+}
+.Kiraelu{
+  background-color:#000000;
+  font-size:30px;
+  padding:10px;
+}
+.TFT{
+  background-color:#44482a;
+}
+.Menu{
+  background-color:#000000;
+  text-align:center;
+}
+.Main{
+  background-color:#ffffff;
+  color:#000000;
+}
+.Menu li{
+  padding:5px;
+  padding-left:30px;
+  padding-right:30px;
+}
+.Menu ol{
+  padding:5px;
+}
+.Main_BG{
+  background-color:#5d7529;
+}
+.LLS{
+  text-align:right;
+  font-size:15px;
+}
+.LLS li{
+  padding-right:10px;
+}
+.SCG{
+  font-size:17px;
+  text-align:center;
+}
+.SCG li{
+  text-align:center;
+  padding-left:30px;
+  padding-right:30px;
+}
+#TFT_FullName{
+  display:grid;
+  grid-template-columns:70px 1fr;
+}
+#TFT_Title{
+  padding:3px;
+  text-align:center;
+}
+#TFT_FN{
+  line-height:33px;
+  padding-left:10px;
+}#None{
+  padding-top:33px;
+}
+#M_DVS{
+  display:grid;
+  grid-template-columns:1fr 4fr 1fr;
+}
+#M-2_DVS{
+  display:grid;
+  grid-template-columns:37px 1fr;
+}
+#M-2-2-1{
+  padding-top:150px;
+}
+#M-2-2-2_DVS{
+  display:grid;
+  grid-template-columns:1fr 37px 37px;
+}
+#M-2-2-3_DVS{
+  display:grid;
+  grid-template-columns:80px 1fr 37px 37px;
+}
+#M-2-2-2_DVS, #M-2-2-3_DVS{
+  height:37px;
+}
+#M-2-2-4_DVS{
+  display:grid;
+  grid-template-columns:1fr 37px;
+  height:100%;
+}
+html, body{
+  height:100%;
+  overflow:hidden;
+}
+.Main_BG{
+  height:100%;
+}
+#M-2-2-2_DVS_CLose{
+  font-size:37px;
+  text-align:center;
+  line-height:37px;
+}
+#M-2-2-3_DVS_Menu{
+  font-size:20px;
+  text-align:center;
+  line-height:37px;
+}

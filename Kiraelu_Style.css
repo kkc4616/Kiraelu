@@ -1,0 +1,73 @@
+body{
+  background-color:#5d7529;
+  color:#ffffff;
+  font-weight:700;
+  margin:0;
+}
+ol{
+  margin:0;
+  padding:7px;
+}
+li{
+  display:inline;
+}
+a{
+  text-decoration:none;
+  color:#ffffff;
+}
+.Top{
+  font-size:20px;
+}
+.Kiraelu{
+  background-color:#000000;
+  font-size:30px;
+  padding:10px;
+}
+.TFT{
+  background-color:#44482a;
+}
+.Menu{
+  background-color:#000000;
+  text-align:center;
+}
+.Menu li{
+  padding:5px;
+  padding-left:30px;
+  padding-right:30px;
+}
+.Menu ol{
+  padding:5px;
+}
+.Main_BG{
+  background-color:#5d7529;
+}
+.LLS{
+  text-align:right;
+  font-size:15px;
+}
+.LLS li{
+  padding-right:10px;
+}
+.SCG{
+  font-size:17px;
+  text-align:center;
+}
+.SCG li{
+  text-align:center;
+  padding-left:30px;
+  padding-right:30px;
+}
+#TFT_FullName{
+  display:grid;
+  grid-template-columns:70px 1fr;
+}
+#TFT_Title{
+  padding:3px;
+  text-align:center;
+}
+#TFT_FN{
+  line-height:33px;
+  padding-left:10px;
+}#None{
+  padding-top:33px;
+}
